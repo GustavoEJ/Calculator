@@ -3,6 +3,10 @@
 
 Simple Java calculator using Java Swing GUI
 
+### Screenshot
+
+![Calculator screenshot](Calculator/Screenshots/calcScreenshot.JPG)
+
 
 ### Installation 🔧
 
