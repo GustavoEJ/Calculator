@@ -242,7 +242,6 @@ public class Calculator implements ActionListener{
 			if(e.getSource()==decButton) {
 				if(!(textfield.getText().contains(".")) && textfield.getText().isBlank()) {
 					textfield.setText(textfield.getText()+"0.");
-					System.out.println("segunda opÃ§Ã£o");
 				}
 			
 				else if(!textfield.getText().contains(".")) {
