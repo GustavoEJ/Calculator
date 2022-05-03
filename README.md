@@ -12,7 +12,8 @@ Simple Java calculator using Java Swing GUI
 
 1. Download the project files or clone the repoitory. 
 2. Import the files in an Java IDE of your choice (Eclipse, Intelij, etc...)
-3. Run the application.
+3. Be sure that you're using the UTF-8 encoder in your IDE.
+4. Run the application.
 
 ### Contributing 🚨
   
